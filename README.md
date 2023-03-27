@@ -1,2 +1,1 @@
-# aldanayan
-teamo
+este proyecto es una prueva de como crear un repositorio y como clonarlo desde hithub a la computadora
